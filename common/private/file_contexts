@@ -1,4 +1,4 @@
 # file_contexts
 
 ### DATA
-/data/zram(/.*)?                             u:object_r:zram_data_file:s0
+/data/zram(/.*)?                             u:object_r:vendor_zram_data_file:s0
